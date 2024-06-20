@@ -1,0 +1,13 @@
+﻿  Game.c
+  game_hud.c
+C:\Users\sande\OneDrive\Documents\Masters\UniversitätZuLuebeck\Semester1\RealTimeSystems\Assignment2\Exercise_2\Exercise_2\Game.c(65,2): warning C4013: 'hud_init' undefined; assuming extern returning int
+C:\Users\sande\OneDrive\Documents\Masters\UniversitätZuLuebeck\Semester1\RealTimeSystems\Assignment2\Exercise_2\Exercise_2\Game.c(85,2): warning C4013: 'stars_init' undefined; assuming extern returning int
+C:\Users\sande\OneDrive\Documents\Masters\UniversitätZuLuebeck\Semester1\RealTimeSystems\Assignment2\Exercise_2\Exercise_2\Game.c(110,5): warning C4013: 'stars_update' undefined; assuming extern returning int
+C:\Users\sande\OneDrive\Documents\Masters\UniversitätZuLuebeck\Semester1\RealTimeSystems\Assignment2\Exercise_2\Exercise_2\Game.c(113,5): warning C4013: 'hud_update' undefined; assuming extern returning int
+C:\Users\sande\OneDrive\Documents\Masters\UniversitätZuLuebeck\Semester1\RealTimeSystems\Assignment2\Exercise_2\Exercise_2\Game.c(198,5): warning C4013: 'hud_resume' undefined; assuming extern returning int
+C:\Users\sande\OneDrive\Documents\Masters\UniversitätZuLuebeck\Semester1\RealTimeSystems\Assignment2\Exercise_2\Exercise_2\Game.c(206,5): warning C4013: 'hud_pause' undefined; assuming extern returning int
+C:\Users\sande\OneDrive\Documents\Masters\UniversitätZuLuebeck\Semester1\RealTimeSystems\Assignment2\Exercise_2\Exercise_2\Game.c(228,4): warning C4013: 'stars_draw' undefined; assuming extern returning int
+C:\Users\sande\OneDrive\Documents\Masters\UniversitätZuLuebeck\Semester1\RealTimeSystems\Assignment2\Exercise_2\Exercise_2\Game.c(235,4): warning C4013: 'hud_draw' undefined; assuming extern returning int
+C:\Users\sande\OneDrive\Documents\Masters\UniversitätZuLuebeck\Semester1\RealTimeSystems\Assignment2\Exercise_2\Exercise_2\Game.c(244,2): warning C4013: 'hud_deinit' undefined; assuming extern returning int
+  Generating Code...
+  Exercise_2.vcxproj -> C:\Users\sande\OneDrive\Documents\Masters\UniversitätZuLuebeck\Semester1\RealTimeSystems\Assignment2\Exercise_2\x64\Debug\Exercise_2.exe
